@@ -6,9 +6,10 @@ namespace communications_log
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellooo Universe!");
-            Console.WriteLine("Hello Control!! This is Pilot speaking.")
             Console.BackgroundColor = ConsoleColor.Blue;
+            Console.WriteLine("Hellooo Universe!");
+            Console.WriteLine("Hello Control!! This is Pilot speaking.");
+            Console.WriteLine("I made an extra addition to the file! AMC to the moon!");
         }
     }
 }
