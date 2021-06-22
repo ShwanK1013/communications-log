@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saehw\\communications-log\\communications-log\\communications-log\\communications-log.csproj": {}
+    "C:\\Users\\Loft\\Desktop\\launch\\Studio15\\communications-log\\communications-log\\communications-log\\communications-log.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saehw\\communications-log\\communications-log\\communications-log\\communications-log.csproj": {
+    "C:\\Users\\Loft\\Desktop\\launch\\Studio15\\communications-log\\communications-log\\communications-log\\communications-log.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saehw\\communications-log\\communications-log\\communications-log\\communications-log.csproj",
+        "projectUniqueName": "C:\\Users\\Loft\\Desktop\\launch\\Studio15\\communications-log\\communications-log\\communications-log\\communications-log.csproj",
         "projectName": "communications-log",
-        "projectPath": "C:\\Users\\saehw\\communications-log\\communications-log\\communications-log\\communications-log.csproj",
-        "packagesPath": "C:\\Users\\saehw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saehw\\communications-log\\communications-log\\communications-log\\obj\\",
+        "projectPath": "C:\\Users\\Loft\\Desktop\\launch\\Studio15\\communications-log\\communications-log\\communications-log\\communications-log.csproj",
+        "packagesPath": "C:\\Users\\Loft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Loft\\Desktop\\launch\\Studio15\\communications-log\\communications-log\\communications-log\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\saehw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Loft\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
